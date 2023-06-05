@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sriram1317
 - 👀 I’m interested in experiencing new tech's  
-- 🌱 I’m currently learning Unity
 - 📫 How to reach me ... sriram.vilvanathan@gmail.com
 
 <!---
